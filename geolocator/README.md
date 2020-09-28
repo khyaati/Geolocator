@@ -1,3 +1,0 @@
-# Geolocator
-
-### Project in Development 
